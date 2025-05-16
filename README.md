@@ -22,4 +22,4 @@
 
 ## ☄️ Connect with me:
 
-[You can add links to your social media profiles or portfolio here, e.g., GitHub, LinkedIn, Twitter, etc.]
+- hello@belvin.io
